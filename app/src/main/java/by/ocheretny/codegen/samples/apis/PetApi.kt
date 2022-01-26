@@ -8,7 +8,6 @@ package by.ocheretny.codegen.samples.apis
 
 import by.ocheretny.codegen.samples.models.ApiResponse
 import by.ocheretny.codegen.samples.models.Pet
-import by.ocheretny.codegen.samples.tools.MULTI
 import okhttp3.RequestBody
 import retrofit2.http.DELETE
 import retrofit2.http.GET
